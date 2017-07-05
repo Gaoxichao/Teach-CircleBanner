@@ -467,4 +467,4 @@ OK。在经历了上面一段脑子思考之后，我就选择了采用`ViewPage
 
 这个Demo也同步上传到Github，如果大家想看源码，可以移步这里。
 
-Github:
+Github:[https://github.com/ryanlijianchang/Teach-CircleBanner](https://github.com/ryanlijianchang/Teach-CircleBanner)
